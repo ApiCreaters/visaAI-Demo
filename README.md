@@ -188,7 +188,9 @@ google_fonts: ^6.2.1     # DM Sans, DM Serif, JetBrains Mono
 > All results are hardcoded mock data designed to demonstrate UI/UX quality.
 
 
-git branch -m main mains
-git fetch origin
-git branch -u origin/mains mains
-git remote set-head origin -a
+
+git init
+git add .
+git commit -m "initial commit"
+git remote add origin https://github.com
+git push -f origin main
