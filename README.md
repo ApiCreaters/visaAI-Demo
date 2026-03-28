@@ -185,7 +185,13 @@ google_fonts: ^6.2.1     # DM Sans, DM Serif, JetBrains Mono
 ---
 
 > **Sales Demo Notice:** This application contains no real OCR, ML, or document processing.  
-> All results are hardcoded mock data designed to demonstrate UI/UX quality.
+
+[//]: # (git init)
+[//]: # (git add .)
+[//]: # (git commit -m "initial commit")
+[//]: # (git remote add origin https://github.com)
+[//]: # (git push -f origin main)
+
 
 
 
