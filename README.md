@@ -15,6 +15,13 @@ VisaAI simulates an intelligent document validation system that:
 
 ---
 
+## 🖥️ Demo Preview
+
+![Dashboard](https://github.com/ApiCreaters/visaAI-Demo/blob/a47c34e6c31b19b83b70c3b29eb5b11bf9b8cd99/Screenshot%202026-03-28%20224710.png)
+![Results](https://github.com/ApiCreaters/visaAI-Demo/blob/a47c34e6c31b19b83b70c3b29eb5b11bf9b8cd99/Screenshot%202026-03-28%20224819.png)
+
+---
+
 ## 🎯 Problem It Solves
 
 Immigration firms spend significant time manually checking:
@@ -45,13 +52,6 @@ VisaAI provides:
 - 📊 Clean dashboard with analytics
 - ✅ Document checklist (verified / missing)
 - 🎯 Enterprise-style UI (SaaS design)
-
----
-
-## 🖥️ Demo Preview
-
-![Dashboard](https://github.com/ApiCreaters/visaAI-Demo/blob/a47c34e6c31b19b83b70c3b29eb5b11bf9b8cd99/Screenshot%202026-03-28%20224710.png)
-![Results](https://github.com/ApiCreaters/visaAI-Demo/blob/a47c34e6c31b19b83b70c3b29eb5b11bf9b8cd99/Screenshot%202026-03-28%20224819.png)
 
 ---
 
