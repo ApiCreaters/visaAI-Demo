@@ -1,5 +1,5 @@
-name: strat_demo
-description: "A new Flutter project."
+name: wallet_rewards
+description: "WalletRewards - A Flutter app for managing loyalty cards and rewards with GetX and Firebase."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
@@ -31,14 +31,46 @@ dependencies:
   flutter:
     sdk: flutter
 
-  # The following adds the Cupertino Icons font to your application.
-  # Use with the CupertinoIcons class for iOS style icons.
+  # UI and Icons
   cupertino_icons: ^1.0.8
+  
+  # State Management
   get: ^4.6.6
+  
+  # File and Picker
   file_picker: ^8.0.0+1
+  
+  # Animation and UI
   flutter_animate: ^4.5.0
   dotted_border: ^2.1.0
   google_fonts: ^6.2.1
+  
+  # QR Code
+  qr_flutter: ^6.1.1
+  mobile_scanner: ^3.5.0
+  
+  # Firebase
+  firebase_core: ^2.24.0
+  firebase_auth: ^4.15.0
+  cloud_firestore: ^4.14.0
+  firebase_storage: ^11.6.0
+  
+  # HTTP and Networking
+  http: ^1.1.0
+  
+  # Local Storage
+  shared_preferences: ^2.2.2
+  
+  # Utilities
+  intl: ^0.19.0
+  uuid: ^4.0.0
+  flutter_typeahead: ^4.8.0
+  cached_network_image: ^3.3.1
+  fl_chart: ^0.65.0
+  
+  # Permissions
+  permission_handler: ^11.4.4
+  geolocator: ^9.0.2
 
 dev_dependencies:
   flutter_test:
